@@ -1,0 +1,7 @@
+var:
+  option:
+    full_shape: false
+    simplification: false
+  previously_selected_schema: bopomofo_hsuq
+  schema_access_time:
+    bopomofo_hsuq: 1468115997

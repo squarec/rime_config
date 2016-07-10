@@ -1,0 +1,74 @@
+# Rime user dictionary
+#@/db_name	terra_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	55
+#@/user_id	2048e469-27f6-4fab-8e54-2b25f99de004
+ba1 	吧	c=1 d=1 t=51
+ban1 	般	c=2 d=1.99501 t=4
+bi3 jiao4 	比較	c=0 d=0.1 t=8
+bu4 hui4 	不會	c=0 d=0.1 t=34
+bu4 tong2 	不同	c=0 d=0.1 t=40
+bu4 tong2 le5 	不同了	c=1 d=1 t=41
+cai3 	採	c=1 d=1 t=24
+cha2 	查	c=0 d=0.1 t=54
+cha2 zi1 liao4 	查資料	c=1 d=1 t=55
+ci4 	次	c=0 d=0.1 t=43
+cong2 ci3 	從此	c=0 d=0.1 t=39
+da4 jia1 	大家	c=1 d=1 t=46
+da4 shi1 	大師	c=1 d=1 t=22
+dao4 shi2 hou4 	到時候	c=0 d=0.1 t=52
+de2 	得	c=1 d=1 t=17
+de5 	的	c=2 d=1.94649 t=25
+de5 jing1 	地精	c=1 d=1 t=13
+dian3 	點	c=1 d=1 t=11
+dian4 hua4 	電話	c=1 d=1 t=50
+eng5 	嗯	c=1 d=1 t=6
+feng1 	風	c=1 d=1 t=23
+ge4 	個	c=1 d=1 t=8
+gong4 shi4 	共識	c=0 d=0.1 t=46
+hou4 	後	c=1 d=1 t=38
+hu2 ling2 	壺鈴	c=1 d=1 t=52
+jing1 	經	c=1 d=1 t=10
+jing1 dian3 	經典	c=1 d=1 t=15
+jiu4 	就	c=0 d=0.1 t=39
+jiu4 cong2 ci3 	就從此	c=1 d=1 t=40
+kan4 kan5 	看看	c=0 d=0.1 t=8
+kui1 	窺	c=1 d=1 t=21
+lai2 	來	c=0 d=0.1 t=8
+lai2 bi3 jiao4 kan4 kan5 	來比較看看	c=1 d=1 t=9
+le5 	了	c=0 d=0.1 t=40
+lou2 zhu3 	樓主	c=1 d=1 t=33
+mai3 le5 	買了	c=1 d=1 t=36
+mei3 li4 	美麗	c=1 d=1 t=34
+na2 qi3 	拿起	c=1 d=1 t=49
+na4 	那	c=2 d=2.03143 t=52
+na4 dao4 shi2 hou4 	那到時候	c=1 d=1 t=53
+nan2 de2 	難得	c=1 d=1 t=45
+neng2 	能	c=1 d=1 t=28
+ni3 hui4 	你會	c=0 d=0.1 t=34
+ni3 hui4 bu4 hui4 zhi3 jue2 de2 	你會不會只覺得	c=1 d=1 t=35
+ren2 sheng1 	人生	c=1 d=1 t=39
+ru4 men2 	入門	c=1 d=1 t=26
+shu3 xu1 guan3 	鼠鬚管	c=1 d=1 t=5
+shuang3 	爽	c=1 d=1 t=37
+ting1 	聽	c=1 d=1 t=19
+tou4 guo4 	透過	c=1 d=1 t=29
+wo3 shuo1 	我說	c=1 d=1 t=43
+xi1 wang4 	希望	c=1 d=1 t=27
+xia4 	下	c=1 d=1 t=7
+xie4 xie5 	謝謝	c=1 d=1 t=32
+xu3 shi4 	許氏	c=1 d=1 t=1
+yi1 	一	c=3 d=2.90398 t=20
+yi1 ye4 	一夜	c=0 d=0.1 t=43
+you3 	有	c=0 d=0.1 t=46
+you3 gong4 shi4 	有共識	c=1 d=1 t=47
+zen3 me5 	怎麽	c=1 d=1 t=54
+zhe4 	這	c=1 d=1 t=30
+zhi2 	值	c=1 d=1 t=16
+zhi3 jue2 de2 	只覺得	c=0 d=0.1 t=34
+zhong1 	中	c=1 d=1 t=12
+zhuan1 ji2 	專輯	c=1 d=1 t=31
+zi1 liao4 	資料	c=0 d=0.1 t=54
+zui4 hou4 	最後	c=0 d=0.1 t=43
+zui4 hou4 yi1 ye4 ci4 	最後一夜次	c=1 d=1 t=44
